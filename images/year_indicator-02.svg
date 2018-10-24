@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1285 63.6" enable-background="new 0 0 1285 63.6" xml:space="preserve">
+<g id="Guides">
+</g>
+<g id="colors">
+</g>
+<g id="infographic_x5F_bg">
+</g>
+<g id="year-indicator">
+	<g id="red_x5F_indicators_2_">
+		<rect id="_x32_017_2_" x="1208.5" y="0.5" fill="#E50303" stroke="#E50303" stroke-miterlimit="10" width="6" height="18.1"/>
+		<rect id="_x32_010_2_" x="995.3" y="0.5" fill="#E50303" stroke="#E50303" stroke-miterlimit="10" width="6" height="18.1"/>
+		<rect id="_x32_008_2_" x="716.9" y="0.5" fill="#E50303" stroke="#E50303" stroke-miterlimit="10" width="6" height="18.1"/>
+		<rect id="_x32_006" x="464.4" y="0.5" fill="#E50303" stroke="#E50303" stroke-miterlimit="10" width="6" height="18.1"/>
+		<rect x="245.3" y="0.5" fill="#E50303" stroke="#E50303" stroke-miterlimit="10" width="6" height="18.1"/>
+		<rect x="65.4" y="0.5" fill="#E50303" stroke="#E50303" stroke-miterlimit="10" width="6" height="18.1"/>
+	</g>
+	<g id="background_1_">
+		<linearGradient id="background_2_" gradientUnits="userSpaceOnUse" x1="642.4816" y1="18.5789" x2="642.4816" y2="63.5766">
+			<stop  offset="0" style="stop-color:#EDEDED"/>
+			<stop  offset="0.376" style="stop-color:#D5D5D5"/>
+			<stop  offset="1" style="stop-color:#A6A6A6"/>
+		</linearGradient>
+		<path id="background" fill="url(#background_2_)" d="M1262.5,63.6H22.5C10.1,63.6,0,53.5,0,41.1v0c0-12.4,10.1-22.5,22.5-22.5
+			h1240c12.4,0,22.5,10.1,22.5,22.5v0C1285,53.5,1274.8,63.6,1262.5,63.6z"/>
+	</g>
+	<g id="line_1_">
+		
+			<line fill="none" stroke="#AFAFAF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="32" y1="41.1" x2="1253.4" y2="41.1"/>
+	</g>
+</g>
+<g id="red_x5F_btn">
+</g>
+<g id="info">
+</g>
+<g id="Pi">
+</g>
+<g id="Info-pi" display="none">
+</g>
+<g id="requiem_1_">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="127.8" y="-587.2" width="291.1" height="276.5">
+			
+				<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="127.8" y="-587.2" width="291.1" height="276.5" id="eye_2_">
+	</mask>
+	<g id="eye" mask="url(#eye_2_)">
+	</g>
+</g>
+<g id="Info-requiem" display="none">
+</g>
+<g id="the_x5F_fountain">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="265.3" y="-818.2" width="508.9" height="511.1">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="265.3" y="-818.2" width="508.9" height="511.1" id="tree_2_">
+	</mask>
+	<g id="tree_1_" mask="url(#tree_2_)">
+		<g id="red-circle">
+		</g>
+	</g>
+</g>
+<g id="Info-fountain" display="none">
+</g>
+<g id="black_x5F_swan">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="202.8" y="-994.6" width="1217.2" height="698.5">
+			
+				<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="202.8" y="-994.6" width="1217.2" height="698.5" id="pic_x5F__1_">
+	</mask>
+	<g id="pic_x5F_" mask="url(#pic_x5F__1_)">
+	</g>
+	<g id="natalieWblood_1_">
+	</g>
+	<g id="natalie_x5F_sillouette">
+	</g>
+</g>
+<g id="Info-black-swan">
+</g>
+<g id="the_x5F_wrestler">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="886.8" y="-827.1" width="282.2" height="537">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="886.8" y="-827.1" width="282.2" height="537" id="ring_1_">
+	</mask>
+	<g id="ring" mask="url(#ring_1_)">
+	</g>
+</g>
+<g id="Info-wrestler" display="none">
+</g>
+<g id="mother">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="1133.9" y="-841.2" width="303.2" height="350.6">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="1133.9" y="-841.2" width="303.2" height="350.6" id="jennifer_1_">
+	</mask>
+	<g id="jennifer" mask="url(#jennifer_1_)">
+		<g id="bg_7_">
+		</g>
+	</g>
+</g>
+<g id="Info-mother" display="none">
+</g>
+<g id="page_x5F_title">
+</g>
+<g id="v">
+</g>
+<g id="references">
+</g>
+</svg>
