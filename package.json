@@ -1,0 +1,16 @@
+{
+  "name": "infographic",
+  "version": "1.0.0",
+  "description": "Infographic showing the overall acceptance of 6 movies direted by Darren Aronofsky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniela Dantas",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
