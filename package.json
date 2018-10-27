@@ -12,5 +12,8 @@
     "browser-sync": "^2.26.3",
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "imdb-api": "^4.0.2"
   }
 }
