@@ -73,4 +73,22 @@
     height: 120px !important;
     margin-left: 70% !important;
   }
+  #piData p {
+    padding: 0 2rem 1rem 0;
+  }
+  .grid-bg {
+    grid-template-columns: 1fr !important;
+    grid-gap: 20px;
+  }
+}
+
+@mixin mediaXL {
+  object {
+    width: 10% !important;
+    margin-bottom: 5% !important;
+    align-self: flex-start !important;
+  }
+  .movie {
+    height: 100vh !important;
+  }
 }
