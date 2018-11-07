@@ -10,8 +10,18 @@
   const requiemInfo = document
     .querySelector("#requiemData")
     .querySelectorAll("p");
-  //const imgProf = document.querySelector("#profes");
-
+  const fountainInfo = document
+    .querySelector("#fountainData")
+    .querySelectorAll("p");
+  const blackSwanInfo = document
+    .querySelector("#blackSwanData")
+    .querySelectorAll("p");
+  const wrestlerInfo = document
+    .querySelector("#wrestlerData")
+    .querySelectorAll("p");
+  const motherInfo = document
+    .querySelector("#motherData")
+    .querySelectorAll("p");
   // FUNCTION
 
   // add content to paragraphs with Javascript
@@ -29,6 +39,39 @@
     requiemInfo[3].textContent = data.requiem[2];
     requiemInfo[5].textContent = data.requiem[3];
     requiemInfo[6].textContent = data.requiem[4];
+    requiemInfo[8].textContent = data.requiem[5];
+
+    //The Fountain
+    fountainInfo[0].textContent = data.fountain[0];
+    fountainInfo[2].textContent = data.fountain[1];
+    fountainInfo[3].textContent = data.fountain[2];
+    fountainInfo[5].textContent = data.fountain[3];
+    fountainInfo[6].textContent = data.fountain[4];
+    fountainInfo[8].textContent = data.fountain[5];
+
+    //Black Swan
+    blackSwanInfo[0].textContent = data.blackSwan[0];
+    blackSwanInfo[2].textContent = data.blackSwan[1];
+    blackSwanInfo[3].textContent = data.blackSwan[2];
+    blackSwanInfo[5].textContent = data.blackSwan[3];
+    blackSwanInfo[6].textContent = data.blackSwan[4];
+    blackSwanInfo[8].textContent = data.blackSwan[5];
+
+    //Wrestler
+    wrestlerInfo[0].textContent = data.wrestler[0];
+    wrestlerInfo[2].textContent = data.wrestler[1];
+    wrestlerInfo[3].textContent = data.wrestler[2];
+    wrestlerInfo[5].textContent = data.wrestler[3];
+    wrestlerInfo[6].textContent = data.wrestler[4];
+    wrestlerInfo[8].textContent = data.wrestler[5];
+
+    //Mother
+    motherInfo[0].textContent = data.mother[0];
+    motherInfo[2].textContent = data.mother[1];
+    motherInfo[3].textContent = data.mother[2];
+    motherInfo[5].textContent = data.mother[3];
+    motherInfo[6].textContent = data.mother[4];
+    motherInfo[8].textContent = data.mother[5];
   }
   // HOVER
   function showInfo() {
