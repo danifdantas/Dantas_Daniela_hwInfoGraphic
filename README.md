@@ -1,6 +1,7 @@
 # Dantas_Daniela_hwInfoGraphic
 
 Interactive InfoGraphic that shows the overall acceptance of 6 movies from film Director Darren Aronosfsky.
+![](images/infograph-readme.png)
 
 ## Built With
 
